@@ -18,12 +18,13 @@ Tutorial für OLAT/LFU 2FA autocompletion.
 
 ![image](https://github.com/user-attachments/assets/cad589db-ce4d-4e46-8d0d-b898aeceade8)
 
-5. Danach diesen Inhalt
+5. Danach folgenden Inhalt:
 
 ![image](https://github.com/user-attachments/assets/fa8a62e4-dffa-4124-a8e8-dada11cabd34)
 
 ersetzen durch den Inhalt aus 
 [UIBK_2FA_script.js](./UIBK_2FA_script.js)
+(Einfach den Inhalt löschen, und dann aus dem Script alles markieren, dann Strg + C und danach Strg + V)
 
 Ganz am Anfang findet ihr dann folgendes Feld:
 
@@ -33,24 +34,25 @@ Ganz am Anfang findet ihr dann folgendes Feld:
 ![image](https://github.com/user-attachments/assets/522eb561-e5e6-4a4e-98e7-77ce6102d798)
 ![image](https://github.com/user-attachments/assets/c8affe08-a2ec-440f-9e9f-c855bae11b7a)
 
-Links unten klickt ihr auf den Link um den Code zu erhalten
+7. Links unten klickt ihr auf den Link um den Code zu erhalten
 ![image](https://github.com/user-attachments/assets/5f233c9b-b950-4485-b694-ee346a7efd66)
 
 !!! Ihr müsst diesen QR mit einer App aktivieren, damit der Code auch gültig ist !!!
 
-Danach fügt ihr den Code hier ein:
+8. Danach fügt ihr den Code hier ein:
 
 ![image](https://github.com/user-attachments/assets/cf9ce205-94b0-4cc7-b665-3ceafa059447)
 
 wichtig ist, dass der Code unbedingt zwischen die beiden '' eingefügt wird.
 
-Zum speichern drückt ihr Strg + S.
+9. Zum speichern drückt ihr Strg + S.
 
 Recht oben unter "installed scripts" könnt ihr dann schauen ob's aktiv ist oder nicht
 ![image](https://github.com/user-attachments/assets/119d4c1e-395e-4ee5-b696-5f6a7795bfee)
+
 ![image](https://github.com/user-attachments/assets/9bbfd3b1-0199-406d-86d8-4dbd678c2505)
 
 Optional: Es kann sein, dass euer Browser die skripte erst zulässt wenn ihr Dev Mode anmacht, aber der meldet sich von selbst. 
 
-
+Falls alles gepasst habt könnt ihr es auf Olat testen. Nachdem ihr login drückt sollte beim 2FA check der code von selbst ausgeführt werden
 
