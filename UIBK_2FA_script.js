@@ -10,6 +10,9 @@
 // ==/UserScript==
 
 (function() {
+    
+    const TOTP_SECRET = 'ADD YOUR SECRET HERE';
+    
     'use strict';
 
     console.log("Tampermonkey script is running");
@@ -68,8 +71,6 @@
         console.log("Generated TOTP code:", totp);
         return totp;
     }
-
-    const TOTP_SECRET = 'J7JUBPV4JVY64MEES6YAXK3WIXBV52VV';
 
     function fill2FACode() {
         const totpCode = generateTOTP(TOTP_SECRET);
