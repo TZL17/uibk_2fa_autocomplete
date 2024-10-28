@@ -34,7 +34,7 @@ Ganz am Anfang findet ihr dann folgendes Feld:
 
 ![image](https://github.com/user-attachments/assets/522eb561-e5e6-4a4e-98e7-77ce6102d798)
 
-![image](https://github.com/user-attachments/assets/c8affe08-a2ec-440f-9e9f-c855bae11b7a)
+![image](https://github.com/user-attachments/assets/86b5659c-1020-4a0b-bd38-94fdce215a16)
 
 7. Links unten klickt ihr auf den Link um den Code zu erhalten
 
