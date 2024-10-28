@@ -23,5 +23,6 @@ Tutorial für OLAT/LFU 2FA autocompletion.
 ![image](https://github.com/user-attachments/assets/fa8a62e4-dffa-4124-a8e8-dada11cabd34)
 
 ersetzen durch den Inhalt aus 
-(./UIBK_2FA_script.js)
+[UIBK_2FA_script.js](./UIBK_2FA_script.js)
+
 
