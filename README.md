@@ -1,4 +1,4 @@
-# uibk_2fa_autocomplete
+# UIBK 2FA AUTOCOMPLETION
 
 Tutorial für OLAT/LFU 2FA autocompletion.
 
