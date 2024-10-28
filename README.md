@@ -34,7 +34,7 @@ Ganz am Anfang findet ihr dann folgendes Feld:
 ![image](https://github.com/user-attachments/assets/522eb561-e5e6-4a4e-98e7-77ce6102d798)
 ![image](https://github.com/user-attachments/assets/c8affe08-a2ec-440f-9e9f-c855bae11b7a)
 
-7. Links unten klickt ihr auf den Link um den Code zu erhalten
+8. Links unten klickt ihr auf den Link um den Code zu erhalten
 ![image](https://github.com/user-attachments/assets/5f233c9b-b950-4485-b694-ee346a7efd66)
 
 !!! Ihr müsst diesen QR mit einer App aktivieren, damit der Code auch gültig ist !!!
