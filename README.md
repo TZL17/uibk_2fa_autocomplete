@@ -6,7 +6,7 @@ Tutorial für OLAT/LFU 2FA autocompletion.
 
 ![image](https://github.com/user-attachments/assets/b171973c-b8c1-46e4-bfca-23b048034045)
 
-2. Da sucht ihr nach TamperMonkey und lädt es runter (ist nur einer von vielen Script extensions):
+2. Da sucht ihr nach TamperMonkey und lädt es runter:
 
 ![image](https://github.com/user-attachments/assets/cc6828cd-793b-44d6-b69a-ad627d8a03b7)
 
