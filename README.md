@@ -25,4 +25,9 @@ Tutorial für OLAT/LFU 2FA autocompletion.
 ersetzen durch den Inhalt aus 
 [UIBK_2FA_script.js](./UIBK_2FA_script.js)
 
+Ganz am Anfang findet ihr dann folgendes Feld:
+![image](https://github.com/user-attachments/assets/8f91c41c-388b-4ae0-8dab-8c738cc538ae)
+
+6. Um diesen Code zu bekommen meldet ihr euch unter https://accounts.uibk.ac.at/ an und geht dann auf:
+![image](https://github.com/user-attachments/assets/522eb561-e5e6-4a4e-98e7-77ce6102d798)
 
