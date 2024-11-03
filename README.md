@@ -1,6 +1,16 @@
 # UIBK 2FA AUTOCOMPLETION
 
-Tutorial für OLAT/LFU 2FA autocompletion.
+Haftungsausschluss (Disclaimer)
+
+Dieses Skript wird ohne Gewährleistung oder Garantie bereitgestellt und dient nur zur automatisierten Eingabe des Zwei-Faktor-Authentifizierungscodes (2FA) auf den UIBK-Loginseiten. Die Nutzung erfolgt auf eigene Verantwortung.
+
+Dieses Skript ist nicht für sicherheitskritische Anwendungen vorgesehen und darf nur für persönliche Zwecke verwendet werden. Es ist möglich, dass durch die Nutzung dieses Skripts die Sicherheit des 2FA-Systems eingeschränkt wird. Ich übernehme keine Haftung für mögliche Sicherheitsrisiken, unbefugten Zugriff oder sonstige Schäden, die durch die Nutzung dieses Skripts entstehen könnten.
+
+Durch die Verwendung dieses Skripts akzeptierst du, dass der gesamte Einsatz auf eigene Gefahr erfolgt und du dir der potenziellen Risiken bewusst bist.
+
+Es wird empfohlen, das Skript und den dazugehörigen Secret Key nur auf einem sicheren, privaten Gerät zu verwenden und angemessene Schutzmaßnahmen zu treffen, um unbefugten Zugriff zu vermeiden.
+
+# Tutorial für OLAT/LFU 2FA autocompletion.
 
 1. Rechts oben geht ihr auf Extensions/Erweiterungen und dann Manage Extensions:
 
